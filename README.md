@@ -3,7 +3,7 @@ Java TL1 Server and Client Implementation
 
 I'll help you create a TL1 (Transaction Language 1) server and client in Java. TL1 is commonly used in telecommunications for network element management, which aligns with your telco industry experience.
 
-[TL1 Server and Client code]("#")
+TL1 Server and Client code
 
 Now I'll create a step-by-step guide for running and testing the TL1 server and client:
 
@@ -13,9 +13,9 @@ I've created a complete TL1 server and client implementation in Java for you. He
 
 ### Key Components:
 
-1. TL1Message.java - Handles TL1 message parsing and formatting
-2. TL1Server.java - Multi-threaded server that handles TL1 commands
-3. TL1Client.java - Interactive client with sample commands
+1. [TL1Message.java - Handles TL1 message parsing and formatting](src/TL1Message.java)
+2. [TL1Server.java - Multi-threaded server that handles TL1 commands](src/TL1Server.java)
+3. [TL1Client.java - Interactive client with sample commands](src/TL1Client.java)
 
 ### Features Implemented:
 
