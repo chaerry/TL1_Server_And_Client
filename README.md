@@ -7,7 +7,7 @@ I'll help you create a TL1 (Transaction Language 1) server and client in Java. T
 
 Now I'll create a step-by-step guide for running and testing the TL1 server and client:
 
-[TL1 Server & Client Setup Guide]("https://github.com/chaerry/TL1_Server_And_Client/blob/main/src/server_client_setup.md")
+[TL1 Server & Client Setup Guide]('/src/server_client_setup.md')
 
 I've created a complete TL1 server and client implementation in Java for you. Here's what I've provided:
 
