@@ -13,9 +13,9 @@ I've created a complete TL1 server and client implementation in Java for you. He
 
 ### Key Components:
 
-1. [TL1Message.java - Handles TL1 message parsing and formatting](src/TL1Message.java)
-2. [TL1Server.java - Multi-threaded server that handles TL1 commands](src/TL1Server.java)
-3. [TL1Client.java - Interactive client with sample commands](src/TL1Client.java)
+1. [TL1Message.java](src/TL1Message.java) - Handles TL1 message parsing and formatting
+2. [TL1Server.java](src/TL1Server.java) - Multi-threaded server that handles TL1 commands
+3. [TL1Client.java](src/TL1Client.java) - Interactive client with sample commands
 
 ### Features Implemented:
 
